@@ -5,3 +5,5 @@
  date
  echo "**********display freeup space************"
  free -m
+ echo "******************display working directory**************"
+ pwd
