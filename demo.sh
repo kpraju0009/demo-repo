@@ -7,3 +7,5 @@
  free -m
  echo "******************display working directory**************"
  pwd
+ echo "******************display who am i*********************"
+ whoami
